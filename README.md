@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Tarang 👋
 
-<!--
-**tarangpatel-redteam/tarangpatel-redteam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Red Teamer | Offensive Security & Penetration Testing**
 
-Here are some ideas to get you started:
+I'm pursuing a Diploma in Information Technology at Gujarat Technological University, with a growing focus on penetration testing, vulnerability assessment, and adversarial security testing. I think like an attacker so I can help build stronger defenses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎯 What I'm focused on
+
+- 🔴 Red teaming & offensive security fundamentals
+- 🕵️ Penetration testing methodologies & vulnerability assessment
+- 🛡️ OWASP Top 10 vulnerability classes
+- 🤖 Emerging AI/LLM security risks
+- ☁️ Cloud security basics (GCP)
+
+---
+
+### 📜 Certifications
+
+- **Certified LLM Security Professional (CLLMSP)** — Red Team Leaders
+- **OWASP API Security Top 10** — APIsec University
+- **API Penetration Testing** — APIsec University
+- **Getting Started in API Pen-Testing** — APIsec University
+- **Competency in AI Essentials** — CompTIA
+- **Generative AI Mastermind** — Outskill
+- Plus 11 more API/cloud security certifications — full list on my [LinkedIn](https://www.linkedin.com/in/tarangpatel-red-team/)
+
+---
+
+### 🛠️ Skills
+
+`Penetration Testing` `Red Teaming` `Vulnerability Assessment` `OWASP Top 10` `Threat Analysis` `Network Security` `API Security` `Cloud Security (GCP)` `Python`
+
+---
+
+### 📊 GitHub Stats
+
+![Tarang's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarangpatel-red-team/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tarang2429@gmail.com)
+
+Open to entry-level **Red Team**, **SOC Analyst**, or **Cybersecurity Analyst** opportunities.

@@ -36,8 +36,8 @@ I'm pursuing a Diploma in Information Technology at Gujarat Technological Univer
 
 ### 📊 GitHub Stats
 
-![Tarang's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarangpatel-red-team&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarangpatel-red-team&layout=compact)
+![Tarang's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarangpatel-redteam&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarangpatel-redteam&layout=compact)
 
 ---
 

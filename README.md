@@ -34,13 +34,6 @@ I'm pursuing a Diploma in Information Technology at Gujarat Technological Univer
 
 ---
 
-### 📊 GitHub Stats
-
-![Tarang's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarangpatel-redteam&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarangpatel-redteam&layout=compact)
-
----
-
 ### 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarangpatel-red-team/)
